@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1ck3r&theme=highcontrast" alt="m1ck3r" /></p>
 
-<p>&nbsp; <img align="right" height="200" src="https://i.pinimg.com/originals/93/e0/70/93e070dd929400ac52062f0d7645e088.gif" /></p>
+<p>&nbsp;<img align="center" height="200" src="https://i.pinimg.com/originals/93/e0/70/93e070dd929400ac52062f0d7645e088.gif" /></p>
