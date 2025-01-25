@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1ck3r&show_icons=true&theme=merko&locale=en" alt="m1ck3r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1ck3r&" alt="m1ck3r" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1ck3r&theme=dark" alt="m1ck3r" /></p>
