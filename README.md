@@ -10,6 +10,8 @@
 <a href="https://twitter.com/m1ck3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m1ck3r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erick-carbonell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erick-carbonell" height="30" width="40" /></a>
 <a href="https://instagram.com/m1ck3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m1ck3r" height="30" width="40" /></a>
+<a href="https://discord.com/users/605919122764857358" target="blank"><img align="center" src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/Discord.svg" alt="m1ck3r" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
