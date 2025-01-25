@@ -23,8 +23,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hideoutplay)
 
-<img src="https://raw.githubusercontent.com/M1CK3R/M1CK3R/output/snake.svg" alt="Snake animation" />
-
 <div align="right">&nbsp;
   <img height="200" src="https://i.pinimg.com/originals/93/e0/70/93e070dd929400ac52062f0d7645e088.gif"  />
 </div>
