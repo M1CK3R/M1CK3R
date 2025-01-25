@@ -23,20 +23,8 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hideoutplay)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/M1CK3R">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=M1CK3R&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/M1CK3R/M1CK3R/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
+<div align="right">&nbsp;
   <img height="200" src="https://i.pinimg.com/originals/93/e0/70/93e070dd929400ac52062f0d7645e088.gif"  />
 </div>
-
-###
