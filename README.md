@@ -10,12 +10,6 @@
 - ⚡ Fun fact **日本語を学びたい ¯\_(ツ)_/¯**
 
 <br/>
-
-<p> 
-  
-</p>
-
-
 <br/>
 
 <h3 align="left">Connect with me:</h3>
@@ -57,7 +51,7 @@
   <br/>
   <br/>
   <img height="50%" width="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1ck3r&theme=highcontrast&hide_border=true&background=FFFFFF00" alt="m1ck3r" />
+  <br/>
+  <br/>
   <img align="center" height="200" src="https://i.pinimg.com/originals/93/e0/70/93e070dd929400ac52062f0d7645e088.gif" />
-  <br/>
-  <br/>
 </p>
