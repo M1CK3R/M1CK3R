@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 <h3 align="center">A newbie CS engineering student</h3>
 
--  ✌️ **Erick (Micker)**
+-  ✌️ Hey, I'm **Erick (Micker)**
 
 -  🐢 I'm **20 years old**
 
