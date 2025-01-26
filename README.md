@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Erick (Micker)</h1>
-<h3 align="center">A newbie undergraduate CS engineering student</h3>
+<h1 align="center">Hello there 👋</h1>
+<h3 align="center">A newbie CS engineering student</h3>
+
+-  ✌️ **Erick (Micker)**
+
+-  🐢 I'm **20 years old**
 
 - 🌱 I’m currently learning **Java, Express.js and whatnot ツ**
 
