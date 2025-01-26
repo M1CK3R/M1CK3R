@@ -51,11 +51,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/TypeScript.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p>
-  <img height="50%" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=m1ck3r&show_icons=true&theme=highcontrast&locale=en&count_private=true" alt="m1ck3r" />
-  <br/>
-  <br/>
-  <img height="50%" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ck3r&layout=compact&theme=highcontrast&langs_count=6&hide=css&exclude_repo=ProyTEI" alt="m1ck3r" />
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=m1ck3r&show_icons=true&theme=highcontrast&locale=en&count_private=true" alt="m1ck3r" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ck3r&layout=compact&theme=highcontrast&langs_count=6&hide=css&exclude_repo=ProyTEI" alt="m1ck3r" />
   <br/>
   <br/>
   <img height="50%" width="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1ck3r&theme=highcontrast" alt="m1ck3r" />
