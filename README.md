@@ -35,7 +35,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/MySQL.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/NestJS.svg" alt="nestjs" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/NextJS.svg" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/NodeJS.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/PostgreSQL.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/Postman.svg" alt="postman" width="40" height="40"/> </a> 
