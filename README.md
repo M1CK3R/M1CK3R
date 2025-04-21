@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Express.js and whatnot ツ**
 
-- ⚡ Fun fact **日本語を学びたい ¯\_(ツ)_/¯**
+- ⚡ **日本語を学びたい ¯\_(ツ)_/¯**
 
 <br/>
 <br/>
