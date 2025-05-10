@@ -21,28 +21,35 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/CSS.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/Docker.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/ExpressJS.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/Figma.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/Git.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/HTML.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/Java.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/Linux.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/MySQL.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/NestJS.svg" alt="nestjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/NodeJS.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/PostgreSQL.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/Postman.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/React.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/Redux.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/dark/TypeScript.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
+<div align="center">
+	<table>
+		<tr>
+			<td><code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
+			<td><code><a href="https://postman.com" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code></td>
+			<td><code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code></td>
+			<td><code><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code></td>
+			<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
+		</tr>
+		<tr>
+			<td><code><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code></td>
+			<td><code><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
+			<td><code><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code></td>
+			<td><code><a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="Nest.js" title="Nest.js"/></code></td>
+			<td><code><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/></code></td>
+			<td><code><a href="https://www.java.com" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
+			<td><code><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+			<td><code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
+		</tr>
+		<tr>
+			<td><code><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code></td>
+			<td><code><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
+			<td><code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
+		</tr>
+	</table>
+</div>
 
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=m1ck3r&show_icons=true&theme=highcontrast&locale=en&count_private=true&hide_border=true&bg_color=00000000" alt="m1ck3r" />
