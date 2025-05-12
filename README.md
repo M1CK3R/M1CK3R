@@ -29,7 +29,7 @@
 			<td><code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
 			<td><code><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
 			<td><code><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code></td>
-			<td><code><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code></td>
+			<td><code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
 			<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
 			<td><code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
 		</tr>
@@ -46,7 +46,6 @@
 		<tr>
 			<td><code><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code></td>
 			<td><code><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
-			<td><code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
 		</tr>
 	</table>
 </div>
