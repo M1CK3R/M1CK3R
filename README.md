@@ -5,7 +5,7 @@
 
 -  🐢 I'm **20 years old**
 
-- 🌱 I’m currently learning **Java, Express.js and whatnot ツ**
+- 🌱 I’m currently learning **Python and whatnot ツ**
 
 - ⚡ **日本語を学びたい ¯\_(ツ)_/¯**
 
