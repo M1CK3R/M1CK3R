@@ -11,11 +11,14 @@
 
 ```javascript
 
+{
 	"name": "Erick",
 	"nickname": "M1CK3R",
 	"learning": "Python and whatnot ツ",
 	"wanna learn": "Rust, R and ML",
 	"fun fact": "日本語を学びたい ¯\_(ツ)_/¯"
+}
+
 ```
 
 
