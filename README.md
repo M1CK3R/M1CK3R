@@ -1,14 +1,6 @@
 <h1 align="center">Hello there 👋</h1>
 <h3 align="center">A newbie CS engineering student</h3>
 
--  ✌️ Hey, I'm **Erick (Micker)**
-
--  🐢 I'm **20 years old**
-
-- 🌱 I’m currently learning **Python and whatnot ツ**
-
-- ⚡ **日本語を学びたい ¯\_(ツ)_/¯**
-
 ```javascript
 
 {
